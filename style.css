@@ -1,12 +1,12 @@
 body{
-background-color: bisque;
+background-color: rgb(21, 163, 40);
 }
 #container{
     display:flex ;
 }
 .cartao {
     margin:1rem 1rem;
-    backoground-color: aqua;
+    backoground-color: rgb(211, 21, 125);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
